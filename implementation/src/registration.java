@@ -57,6 +57,7 @@ public class registration {
                     customerInfo.getAddress().getFlat() + ", " + customerInfo.getAddress().getLandMark() + "\n");
             fileWriter.close();
             System.out.println("Registration data saved to file successfully.");
+            Catalog.main(args);
         }catch (IOException e) {
             e.printStackTrace();
         }
