@@ -53,16 +53,52 @@ public class Catalog {
 
         System.out.println("Welcome to Candy Catalog!");
 
-        // Display available categories
-        catalog.displayCategories();
-
-        // Prompt the customer to choose a category
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Choose a category to view available candies: ");
-        String chosenCategory = scanner.nextLine();
+        int choice;
+        do {
+            // Display available categories
+            catalog.displayCategories();
 
-        // Display the candies in the chosen category
-        catalog.displayCandies(chosenCategory);
+            // Prompt the customer to choose a category
+            System.out.print("Choose a category to view available candies: ");
+            String chosenCategory = scanner.nextLine();
+
+            // Display the candies in the chosen category
+            catalog.displayCandies(chosenCategory);
+
+            System.out.println("1 - Add items to the cart");
+            System.out.println("2 - Show categories again");
+            System.out.println("3 - Exit");
+            System.out.print("Choose an option: ");
+            choice = scanner.nextInt();
+            scanner.nextLine(); // Consume the newline character
+
+            if (choice == 1) {
+                ShoppingCart shoppingCart = new ShoppingCart();
+
+                int addToCartChoice;
+                do {
+                    System.out.print("Choose an item to add to the cart (candy): ");
+                    String chosenItem = scanner.nextLine();
+
+                    // Add the chosen item to the cart
+                    shoppingCart.addToCart(chosenItem);
+
+                    System.out.print("Do you want to add more items? (1 - Yes, 2 - No): ");
+                    addToCartChoice = scanner.nextInt();
+                    scanner.nextLine(); // Consume the newline character
+
+                } while (addToCartChoice == 1);
+            } else if (choice == 2) {
+                // Continue to the next iteration of the loop to show the categories again
+                continue;
+            } else if (choice == 3) {
+                // Exit the loop and end the program
+                break;
+            } else {
+                System.out.println("Invalid choice. Please try again.");
+            }
+        } while (true);
 
         scanner.close();
     }

@@ -1,2 +1,13 @@
 chocolate:white chocolate,dark chocolate,kitkat
 drinks:pepsi,grape,mango
+Ice cream flavors: vanilla, strawberry, mint chocolate chip
+Fruit: apple, banana, orange
+Candy: gummy bears, lollipops, sour patch kids
+Pizza toppings: pepperoni, mushrooms, pineapple
+Breakfast cereals: corn flakes, frosted flakes, granola
+Cheese: cheddar, mozzarella, blue cheese
+Cookies: chocolate chip, oatmeal raisin, snickerdoodle
+Snack bars: granola bar, protein bar, fruit and nut bar
+Soft drinks: Coca-Cola, Sprite, Dr. Pepper
+Tea flavors: green tea, chamomile, earl grey
+Burger toppings: lettuce, tomato, pickles

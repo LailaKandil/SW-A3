@@ -73,7 +73,4 @@ public class address {
     public String getLandMark() {
         return landMark;
     }
-
-
-
 }
