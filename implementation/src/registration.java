@@ -62,6 +62,7 @@ public class registration {
             e.printStackTrace();
         }
 
+
         // Closing the scanner
         scanner.close();
     }

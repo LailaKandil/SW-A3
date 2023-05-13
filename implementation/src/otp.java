@@ -5,13 +5,16 @@ import javax.mail.Transport;
 import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 import java.util.Properties;
+import java.util.Scanner;
 
 public class otp {
     public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
         String email = "toffeeotp1@gmail.com";
         String password = "gmlirtzncsyawopu";
-        String recipientEmail = "youssefahmed052@gmail.com";
-        String otp = generateOTP(); // Replace with your OTP generation logic
+        System.out.print("Enter your email: ");
+        String recipientEmail = scanner.nextLine();
+        String otp = generateOTP();
 
         Properties props = new Properties();
         props.put("mail.smtp.auth", "true");
@@ -41,8 +44,6 @@ public class otp {
     }
 
     private static String generateOTP() {
-        // Implement your OTP generation logic here
-        // For simplicity, let's assume a 6-digit OTP
         return String.format("%06d", (int) (Math.random() * 1000000));
     }
 }

@@ -1,9 +1,7 @@
-import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {
        // Creating a Scanner object for user input
-        // otp.main(args);
+        //otp.main(args);
        Scanner scanner = new Scanner(System.in);
 
        System.out.println("Welcome to the App!");
