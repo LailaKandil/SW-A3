@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javax.activation-10.0-b28">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javax.activation-10.0-b28.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

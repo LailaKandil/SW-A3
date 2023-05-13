@@ -7,5 +7,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="jakarta.mail.api" level="project" />
+    <orderEntry type="library" name="javax.mail.api" level="project" />
+    <orderEntry type="library" name="guicedee.services.javax.activation" level="project" />
+    <orderEntry type="library" name="javax.mail" level="project" />
+    <orderEntry type="library" name="javax.activation-10.0-b28" level="project" />
   </component>
 </module>
