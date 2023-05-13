@@ -1,0 +1,4 @@
+Items:
+Item		Price	Quantity	Total
+Skittles		$0.99		3		$2.97
+Total:		$2.97

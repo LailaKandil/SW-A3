@@ -1,0 +1,4 @@
+Items:
+Item		Price	Quantity	Total
+Twix		$1.25		10		$12.50
+Total:		$12.50

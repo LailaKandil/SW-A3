@@ -1,0 +1,10 @@
+Items:
+Item		Price	Quantity	Total
+Kit Kat		$1.79		5		$8.95
+a		$5.00		20		$100.00
+Skittles		$0.99		20		$19.80
+Skittles		$0.99		20		$19.80
+Total:		$148.55
+Skittles		$0.99		20		$19.80
+Kit Kat		$1.79		2		$3.58
+Total:		$162.98

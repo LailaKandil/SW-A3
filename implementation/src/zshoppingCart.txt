@@ -1,0 +1,5 @@
+Items:
+Item		Price	Quantity	Total
+Twix		$1.25		9		$11.25
+Kit Kat		$1.79		2		$3.58
+Total:		$14.83
