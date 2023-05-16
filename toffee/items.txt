@@ -1,0 +1,136 @@
+Name: Hershey's Chocolate Bar
+Description: Creamy milk chocolate in a classic bar shape.
+Category: Chocolate
+Price: 1.99
+Discount: 0.1
+Availability: true
+Quantity: 50
+
+Name: Skittles
+Description: Colorful fruit-flavored chewy candy.
+Category: Candy
+Price: 0.99
+Discount: 0.05
+Availability: true
+Quantity: 15
+
+Name: Sour Patch Kids
+Description: Sour then sweet soft and chewy candy.
+Category: Candy
+Price: 1.49
+Discount: 0.15
+Availability: true
+Quantity: 75
+
+Name: Swedish Fish
+Description: Red chewy fish-shaped candy with a fruity flavor.
+Category: Candy
+Price: 0.99
+Discount: 0.05
+Availability: true
+Quantity: 60
+
+Name: Haribo Gold-Bears
+Description: Gummy bear candy in assorted fruit flavors.
+Category: Candy
+Price: 1.29
+Discount: 0.1
+Availability: true
+Quantity: 80
+
+Name: Twizzlers
+Description: Classic red licorice twists.
+Category: Candy
+Price: 1.19
+Discount: 0.1
+Availability: true
+Quantity: 70
+
+Name: M&M's
+Description: Milk chocolate candies with a candy shell in assorted colors.
+Category: Chocolate
+Price: 1.59
+Discount: 0.05
+Availability: true
+Quantity: 90
+
+Name: Kit Kat
+Description: Crispy wafer bars covered in milk chocolate.
+Category: Chocolate
+Price: 1.79
+Discount: 0.1
+Availability: true
+Quantity: 5
+
+Name: Snickers
+Description: Milk chocolate with peanuts, caramel and nougat
+Category: Chocolate
+Price: 1.5
+Discount: 0.1
+Availability: true
+Quantity: 100
+
+Name: Skittles
+Description: Fruity candy with a hard sugar shell and a chewy center
+Category: Candy
+Price: 0.5
+Discount: 0.05
+Availability: true
+Quantity: 200
+
+Name: Kit Kat
+Description: Crisp wafer covered in milk chocolate
+Category: Chocolate
+Price: 1.0
+Discount: 0.0
+Availability: false
+Quantity: 50
+
+Name: Twix
+Description: Caramel and biscuit covered in milk chocolate
+Category: Chocolate
+Price: 1.25
+Discount: 0.15
+Availability: true
+Quantity: 20
+
+Name: Haribo Goldbears
+Description: Chewy gummy bears in assorted fruit flavors
+Category: Candy
+Price: 0.75
+Discount: 0.0
+Availability: true
+Quantity: 280
+
+Name: b
+Description: b
+Category: b
+Price: 4.0
+Discount: 2.0
+Availability: false
+Quantity: 0
+
+Name: a
+Description: a
+Category: a
+Price: 5.0
+Discount: 4.0
+Availability: true
+Quantity: 10
+
+Name: s
+Description: s
+Category: s
+Price: 4.0
+Discount: 0.0
+Availability: false
+Quantity: 0
+
+Name: s
+Description: s
+Category: s
+Price: 5.4
+Discount: 5.9
+Availability: true
+Quantity: 888
+

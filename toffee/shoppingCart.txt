@@ -1,0 +1,5 @@
+Customer Username: doaa
+Items:
+Item		Price	Quantity	Total
+a		$5.00		10		$50.00
+Total:		$50.00

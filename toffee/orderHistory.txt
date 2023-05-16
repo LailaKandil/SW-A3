@@ -1,0 +1,43 @@
+Order ID: 1
+Customer Username: doaa
+Customer Address: giza, dokki, dokki, 50, 5, 5, 5
+Customer Email: doaa@doaa
+Checkout Date/Time: 2023-05-13T11:13:08.713458600
+Items:
+Item		Price	Quantity	Total
+a                $5.00 50       $250.00
+Total: $250.00
+==============================================
+Order ID: 1
+Customer Username: doaa
+Customer Address: a, a, a, a, a, a, a
+Customer Email: aaaaaaaaaaaaa
+Checkout Date/Time: 2023-05-13T12:23:57.950439400
+Items:
+Item		Price	Quantity	Total
+Kit Kat          $1.79 5        $8.95
+a                $5.00 20       $100.00
+Skittles         $0.99 20       $19.80
+Skittles         $0.99 20       $19.80
+Total: $148.55
+==============================================
+Order ID: 0
+Customer Username: doaa
+Customer Address: a, a, a, a, a, a, a
+Customer Email: aaaa
+Checkout Date/Time: 2023-05-13T22:08:22.569963100
+Items:
+Item		Price	Quantity	Total
+a                $5.00 10       $50.00
+Total: $50.00
+==============================================
+Order ID: 0
+Customer Username: youssef
+Customer Address: ll, l, k, j, n, j, j
+Customer Email: youssefahmed052@gmail.com
+Checkout Date/Time: 2023-05-16T13:41:28.937366200
+Items:
+Item		Price	Quantity	Total
+Skittles         $0.99 5        $4.95
+Total: $4.95
+==============================================
